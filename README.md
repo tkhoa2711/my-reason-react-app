@@ -1,4 +1,5 @@
 # My ReasonReact App
+[![Build Status](https://travis-ci.org/tkhoa2711/my-reason-react-app.svg?branch=master)](https://travis-ci.org/tkhoa2711/my-reason-react-app)
 
 ## Installing
 
