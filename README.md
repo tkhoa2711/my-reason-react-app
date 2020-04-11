@@ -1,6 +1,8 @@
 # My ReasonReact App
 [![Build Status](https://travis-ci.org/tkhoa2711/my-reason-react-app.svg?branch=master)](https://travis-ci.org/tkhoa2711/my-reason-react-app)
 
+Demo: https://tkhoa2711.github.io/my-reason-react-app/
+
 ## Installing
 
 You can install all the needed dependencies by running `yarn`.
