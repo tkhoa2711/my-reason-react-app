@@ -3,6 +3,8 @@
 
 Demo: https://tkhoa2711.github.io/my-reason-react-app/
 
+![demo](https://user-images.githubusercontent.com/1210268/118203681-e46bc580-b49f-11eb-90ef-952a109412a7.gif)
+
 ## Installing
 
 You can install all the needed dependencies by running `yarn`.
